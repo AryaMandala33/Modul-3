@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class KonversiKgToOns {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -17,4 +18,4 @@ public class KonversiKgToOns {
 
         System.out.println(beratKg + " kilogram adalah setara dengan " + ons + " ons.");
     }
-}}
+}
